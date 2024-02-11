@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  box-sizing: border-box;
+}
+
+header h3{
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+
+.hero{
+  /* background: url('../public/24123.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain; */
+}
