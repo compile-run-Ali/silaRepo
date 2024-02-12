@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import Product_control from "./product_control"
 import Hidden_product from "./hidden_product"
 

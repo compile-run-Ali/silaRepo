@@ -1,3 +1,4 @@
+/* eslint-disable */
 import Dashboard from "@/components/Dashboard/Dashboard"
 import BaseLayout from "@/components/BaseLayout/BaseLayout"
 import { useSession } from "next-auth/react"

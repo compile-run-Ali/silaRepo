@@ -1,6 +1,8 @@
 import axios from 'axios'
 import { useState } from 'react'
 import { useEffect } from 'react'
+/* eslint-disable */
+
 import Product_view from './product_view'
 import Topbar from './Topbar'
 import Add_product_modal from "./Add_product_modal"

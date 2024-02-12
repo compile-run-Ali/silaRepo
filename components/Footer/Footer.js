@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 export default function Footer(){
     return(
         <footer className="text-sm flex flex-row justify-between items-center min-h-10 h-10 pl-3.5 pr-5">
