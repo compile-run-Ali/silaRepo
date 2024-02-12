@@ -47,3 +47,11 @@ model reviews {
   updatedAt      DateTime @db.Date
   verified       Boolean
 }
+
+model users {
+  id         String @id @default(auto()) @map("_id") @db.ObjectId
+  first_name String
+  last_name  String
+  email      String @unique
+  password   String
+}
